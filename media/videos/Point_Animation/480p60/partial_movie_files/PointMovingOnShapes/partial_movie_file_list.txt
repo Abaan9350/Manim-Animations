@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/Point_Animation/480p60/partial_movie_files/PointMovingOnShapes/1360561080_22980905_4159515603.mp4'
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/Point_Animation/480p60/partial_movie_files/PointMovingOnShapes/4168232738_3199290941_2799868931.mp4'
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/Point_Animation/480p60/partial_movie_files/PointMovingOnShapes/4168232738_3405673780_496602590.mp4'
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/Point_Animation/480p60/partial_movie_files/PointMovingOnShapes/4168232738_3304344583_2799868931.mp4'
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/Point_Animation/480p60/partial_movie_files/PointMovingOnShapes/4168232738_1704852926_2365538417.mp4'

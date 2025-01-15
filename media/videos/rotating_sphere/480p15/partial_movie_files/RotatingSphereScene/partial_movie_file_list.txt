@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/rotating_sphere/480p15/partial_movie_files/RotatingSphereScene/2550307886_459457814_223132457.mp4'
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/rotating_sphere/480p15/partial_movie_files/RotatingSphereScene/2732211768_2978205167_4267288446.mp4'
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/rotating_sphere/480p15/partial_movie_files/RotatingSphereScene/2732211768_3438219438_3078248020.mp4'

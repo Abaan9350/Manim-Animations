@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/combined_animations/1080p60/partial_movie_files/LinesAnimation/3977891868_2372001603_2358810818.mp4'
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/combined_animations/1080p60/partial_movie_files/LinesAnimation/2852726489_876825002_3968213277.mp4'
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/combined_animations/1080p60/partial_movie_files/LinesAnimation/2852726489_3614270428_381230863.mp4'
+file 'file:D:/Abaan ka Folder/Padhai/Projects/Manim Animations/media/videos/combined_animations/1080p60/partial_movie_files/LinesAnimation/2852726489_3890345977_553843009.mp4'
